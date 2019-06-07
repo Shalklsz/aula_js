@@ -10,11 +10,14 @@
 
 <body>
     <script>
+        var num = []
         function pares(x, y) {
             for (let i = x; i <= y; i++) {
-                console.log(i)
+                if (i % 2 == 0) {
+                    num.push(parseInt(i));
+                }
             }
-
+            console.log(num);
         }
         pares(32, 100);
     </script>
