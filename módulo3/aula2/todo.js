@@ -5,4 +5,4 @@ var buttonElement = document.querySelector("#app button");
 var todos = [
    'Fazer Café',
    'Beber Gasolina',
-   'Jogar lixo no lixo'
+   'Jogar lixo no lixo'];
