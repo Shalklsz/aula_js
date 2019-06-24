@@ -1,0 +1,65 @@
+[33mcommit 9e58b21dda7d485aaed48172bf992179d56c2508[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: unknown <jefferson_carradore1@saojose.sc.senai.br>
+Date:   Mon Jun 24 10:57:36 2019 -0300
+
+    inicio aula1, módulo3
+
+[33mcommit 64e9f9a5ec933fd52975c74c08c53f7f6e565ed5[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: unknown <you@example.com>
+Date:   Fri Jun 7 20:36:57 2019 -0300
+
+    conclusão do desafio5, crição de function para imprimir as arrays
+
+[33mcommit e8a109f5568b3faa50c1f298f3cc6f6ad224c940[m
+Author: unknown <you@example.com>
+Date:   Fri Jun 7 20:33:39 2019 -0300
+
+    início desafio5
+
+[33mcommit 28cfedccea83587a5e2a60dccd54af13031439ba[m
+Author: unknown <you@example.com>
+Date:   Fri Jun 7 16:47:16 2019 -0300
+
+    conclusão desafio4, adicionados os ifs
+
+[33mcommit daa1486bf53cfffd01111d6ba163413497c9cad0[m
+Author: unknown <you@example.com>
+Date:   Fri Jun 7 16:44:56 2019 -0300
+
+    início desafio4
+
+[33mcommit 1a01c25799f460ecf6225ef721dde3e66b73aff1[m
+Author: unknown <you@example.com>
+Date:   Fri Jun 7 16:35:42 2019 -0300
+
+    conclusão desafio2; if para descobrir se possui a habilidade na array,var skill para definir true or false e console.log para imprimir
+
+[33mcommit ea587fc93899ee29b3f68e5eab8c6b4a1880d100[m
+Author: unknown <you@example.com>
+Date:   Fri Jun 7 16:33:42 2019 -0300
+
+    início desafio2
+
+[33mcommit b006e9cfa55f9a1f4c3dc4fa4d26495115f715b1[m
+Author: unknown <you@example.com>
+Date:   Fri Jun 7 16:14:55 2019 -0300
+
+    conclusão desafio2, if para descobrir os pares e lista para imprimir
+
+[33mcommit 06e61e83ac2ec136c374f5d83290647cbb406bb2[m
+Author: unknown <you@example.com>
+Date:   Fri Jun 7 16:11:51 2019 -0300
+
+    início desafio2
+
+[33mcommit 0b813dbacb8d1d346ee662d82bdf09427d879fa2[m
+Author: unknown <you@example.com>
+Date:   Fri Jun 7 15:41:30 2019 -0300
+
+    conclusão do desafio1
+
+[33mcommit ec85c5d7001f354840c1f85a08304182c64efe59[m
+Author: unknown <you@example.com>
+Date:   Fri Jun 7 15:39:09 2019 -0300
+
+    início
