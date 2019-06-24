@@ -9,7 +9,8 @@ var todos = [
 
    function renderTodos() {
         for (todo of todos) {
-            var todoElement = document.createAttribute('li')
+            var todoElement = document.createAttribute('li');
+            var todoText = document.createTextNode(todo);
         }
     }
 
