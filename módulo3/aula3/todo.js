@@ -9,6 +9,8 @@ var todos = [
 
    function renderTodos() {
         for (todo of todos) {
-            console.log(todo);
+            var todoElement = document.createAttribute('li')
         }
     }
+
+    renderTodos()
