@@ -8,7 +8,7 @@ var todos = [
    'Jogar lixo no lixo'];
 
    function renderTodos() {
-        for (toodo of todos) {
+        for (todo of todos) {
             console.log(todo);
         }
     }
