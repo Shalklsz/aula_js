@@ -38,6 +38,7 @@ function addTodo() {
     todos.push(todoText);
     inputElement.value = '';
     renderTodos();
+    saveToStorage();
 }
 
 buttonElement.onclick = addTodo;
@@ -45,4 +46,9 @@ buttonElement.onclick = addTodo;
 function deleteTodo(pos) {
     todos.splice(pos, 1);
     renderTodos();
+    saveToStorage();
+}
+
+function saveToStorage() {
+    localStorage.setItem('listTodos', JSON.stringify(todos));
 }
