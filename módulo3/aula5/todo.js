@@ -14,11 +14,15 @@ function renderTodos() {
         var todoText = document.createTextNode(todo);
 
         var linkElement = document.createElement('a');
+
+        linkElement.setAttribute('href', '#');
+
         var linkText = document.createTextNode('excluir');
 
         linkElement.appendChild(linkText);
 
         todoElement.appendChild(todoText);
+        todoElement.appendChild(linkElement);
         listElement.appendChild(todoElement);
     }
 }
