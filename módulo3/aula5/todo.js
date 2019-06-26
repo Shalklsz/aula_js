@@ -40,5 +40,6 @@ function addTodo() {
 buttonElement.onclick = addTodo;
 
 function deleteTodo(pos) {
-    
+    todos.splice(pos, 1);
+    renderTodos();
 }
