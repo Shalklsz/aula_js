@@ -14,6 +14,9 @@ function renderTodos() {
         var todoText = document.createTextNode(todo);
 
         var linkElement = document.createElement('a');
+        var linkText = document.createTextNode('excluir');
+
+        linkElement.appendChild(linkText);
 
         todoElement.appendChild(todoText);
         listElement.appendChild(todoElement);
