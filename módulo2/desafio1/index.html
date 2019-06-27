@@ -14,14 +14,16 @@
 
     <script>
         var btnElement = document.getElementById('criar');
-        var squaresElement = document.getElementById('quadrados');
+        var quadradosElement = document.getElementById('quadrados');
 
         btnElement.onclick = function () {
-            var square = document.createElement('div');
+            var quadrado = document.createElement('div');
 
-            square.style.width = '100px';
-            square.style.height = '100px';
-            square.style.backgroundColor = '#F00';
+            quadrado.style.width = '100px';
+            quadrado.style.height = '100px';
+            quadrado.style.backgroundColor = '#F00';
+
+            quadradosElement.appendChild(quadrado);
         };
 
     </script>
